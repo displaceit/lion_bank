@@ -1,0 +1,35 @@
+.paginator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .paginator__list {
+    display: flex;
+    align-items: center;
+  }
+  
+  .paginator__item {
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .paginator__item:hover {
+    background: #353439;
+    border-radius: 50%;
+  }
+  
+  .paginator__display {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 25px;
+  }
+  
+  .paginator__link {
+    vertical-align: middle;
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    line-height: 32px;
+  }

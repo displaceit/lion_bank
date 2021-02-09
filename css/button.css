@@ -1,0 +1,30 @@
+.btn {
+    display: inline-block;
+    background: #DFB56D;
+    border-radius: 4px;
+    color: #fff;
+    padding: 17px 38px;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  
+  .btn--color--orange {
+    box-shadow: 0px 8px 35px 0px rgba(223, 181, 109, 0.35);
+  }
+  
+  .btn--color--orange:hover {
+    background: #D3A557;
+  }
+  
+  .btn--color--dark-grey {
+    background: #2B2B2B;
+  }
+  
+  .btn--color--dark-grey:hover {
+    background: #D3A557;
+  }
+  
+  .btn--hover--dark-grey:hover {
+    background: #2B2B2B;
+  }
