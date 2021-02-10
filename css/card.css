@@ -25,6 +25,13 @@
     right: -90px;
     background: #ccc;
   }
+
+  .card__header-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
   
   .card_theme-grey .card__header:before {
     background: #a5a5a4;
@@ -45,12 +52,6 @@
     padding: 30px 17px;
   }
   
-  .card__header-img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
   
   .card__title {
     font-size: 24px;

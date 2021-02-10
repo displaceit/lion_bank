@@ -28,3 +28,7 @@
   .btn--hover--dark-grey:hover {
     background: #2B2B2B;
   }
+
+  .btn--color--black {
+    background: #29282D;
+  }

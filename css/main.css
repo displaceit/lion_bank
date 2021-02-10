@@ -1,6 +1,6 @@
 @import url('../css/body.css');
 @import url('../css/fonts.css');
-
+/*MAINPAGE*/
 @import url('../css/wrapper.css');
 @import url('../css/hero.css');
 @import url('../css/button.css');
@@ -17,3 +17,10 @@
 @import url('../css/about.css');
 @import url('../css/footer.css');
 @import url('../css/social.css');
+/*SERVICES*/
+@import url('../css/topline.css');
+@import url('../css/page.css');
+@import url('../css/breadcrumbs.css');
+@import url('../css/services.css');
+@import url('../css/inner.css');
+@import url('../css/partners.css');

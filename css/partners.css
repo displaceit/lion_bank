@@ -1,0 +1,26 @@
+.partners {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.partners__item {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.partners__item:nth-child(4n + 1) {
+    margin-left: 0;
+}
+
+.partners__link {
+    display: flex;
+    width: 270px;
+    height: 100px;
+    align-items: center;
+    justify-content: flex-start;
+    filter: grayscale(100%);
+}
+
+.partners__link:hover {
+    filter: grayscale(0);
+}
